@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533570197873",
+    "project_id": "atelier4-y-elyourizi-iir5g7",
+    "storage_bucket": "atelier4-y-elyourizi-iir5g7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533570197873:android:b5123551f2612b06ebbed0",
+        "android_client_info": {
+          "package_name": "com.example.atelier4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn73KqTSmincoQ8aCodKxF--s5N9TYj8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
